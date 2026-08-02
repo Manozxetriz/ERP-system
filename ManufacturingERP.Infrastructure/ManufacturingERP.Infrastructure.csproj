@@ -8,12 +8,13 @@
 
   <ItemGroup>
     
+    <ProjectReference Include="..\ManufacturingERP.Application\ManufacturingERP.Application.csproj" />
+    
     <ProjectReference Include="..\ManufacturingERP.Domain\ManufacturingERP.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Migrations\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
   <ItemGroup>

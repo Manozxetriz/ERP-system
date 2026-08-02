@@ -8,12 +8,15 @@
 
   <ItemGroup>
     <Folder Include="Features\" />
-    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Identity.EntityFrameworkCore" Version="1.2.7" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ManufacturingERP.Domain\ManufacturingERP.Domain.csproj" />
-    <ProjectReference Include="..\ManufacturingERP.Infrastructure\ManufacturingERP.Infrastructure.csproj" />
+  
   </ItemGroup>
 
 </Project>
