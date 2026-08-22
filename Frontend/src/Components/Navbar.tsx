@@ -44,24 +44,7 @@ function Navbar() {
           </div>
         </button>
 
-        {/* Navigation */}
-        <div className="hidden items-center gap-8 md:flex">
-          <button className="text-sm font-medium text-neutral-600 transition-colors hover:text-neutral-950">
-            Products
-          </button>
-
-          <button className="text-sm font-medium text-neutral-600 transition-colors hover:text-neutral-950">
-            Solutions
-          </button>
-
-          <button className="text-sm font-medium text-neutral-600 transition-colors hover:text-neutral-950">
-            Industries
-          </button>
-
-          <button className="text-sm font-medium text-neutral-600 transition-colors hover:text-neutral-950">
-            About
-          </button>
-        </div>
+       
 
         {/* Right side */}
         <div className="flex items-center gap-3">

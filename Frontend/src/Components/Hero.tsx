@@ -5,11 +5,6 @@ function Hero() {
         <h2 className="text-5xl font-bold text-gray-900">
           Manufacturing ERP
         </h2>
-
-        <p className="mx-auto mt-4 max-w-2xl text-lg text-gray-600">
-          Manage production, inventory, sales, employees,
-          and business operations from one centralized system.
-        </p>
       </div>
     </section>
   );
