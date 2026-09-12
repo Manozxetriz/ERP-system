@@ -18,6 +18,9 @@ namespace ManufacturingERP.Infrastructure.Data
 
         public DbSet<User> Users { get; set; }
         public DbSet<Role> Roles { get; set; }
+        public DbSet<Province> Provinces { get; set; }
+        public DbSet<District> Districts { get; set; }
+        public DbSet<LocalGovernment> LocalGovernments { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -25,6 +28,27 @@ namespace ManufacturingERP.Infrastructure.Data
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
+            // Province → District
+            modelBuilder.Entity<Province>()
+                .HasMany(p => p.Districts)
+                .WithOne(d => d.Province)
+                .HasForeignKey(d => d.ProvinceId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            // Province → LocalGovernment
+            modelBuilder.Entity<Province>()
+                .HasMany(p => p.LocalGovernments)
+                .WithOne(lg => lg.Province)
+                .HasForeignKey(lg => lg.ProvinceId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            // District → LocalGovernment
+            modelBuilder.Entity<District>()
+                .HasMany(d => d.LocalGovernments)
+                .WithOne(lg => lg.District)
+                .HasForeignKey(lg => lg.DistrictId)
+                .OnDelete(DeleteBehavior.Restrict);
+
         }
     }
 }

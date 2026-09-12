@@ -1,0 +1,6026 @@
+[
+  {
+    "name": "Pokhara Metropolitan City",
+    "nameNp": "पोखरा महानगरपालिका",
+    "district": "Kaski",
+    "province": "Gandaki",
+    "type": "MetropolitanCity",
+    "wardCount": 33
+  },
+  {
+    "name": "Bharatpur Metropolitan City",
+    "nameNp": "भरतपुर महानगरपालिका",
+    "district": "Chitwan",
+    "province": "Bagmati",
+    "type": "MetropolitanCity",
+    "wardCount": 29
+  },
+  {
+    "name": "Birgunj Metropolitan City",
+    "nameNp": "वीरगन्ज महानगरपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "MetropolitanCity",
+    "wardCount": 32
+  },
+  {
+    "name": "Biratnagar Metropolitan City",
+    "nameNp": "विराटनगर महानगरपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "MetropolitanCity",
+    "wardCount": 19
+  },
+  {
+    "name": "Kathmandu Metropolitan City",
+    "nameNp": "काठमाडौं । महानगरपालिका",
+    "district": "Kathmandu",
+    "province": "Bagmati",
+    "type": "MetropolitanCity",
+    "wardCount": 32
+  },
+  {
+    "name": "Lalitpur Metropolitan City",
+    "nameNp": "ललितपुर महानगरपालिका",
+    "district": "Lalitpur",
+    "province": "Bagmati",
+    "type": "MetropolitanCity",
+    "wardCount": 29
+  },
+  {
+    "name": "Ghorahi Sub-Metropolitan City",
+    "nameNp": "घोराही उपमहानगरपालिका",
+    "district": "Dang",
+    "province": "Lumbini",
+    "type": "SubMetropolitanCity",
+    "wardCount": 19
+  },
+  {
+    "name": "Tulsipur Sub-Metropolitan City",
+    "nameNp": "तुलसीपुर उपमहानगरपालिका",
+    "district": "Dang",
+    "province": "Lumbini",
+    "type": "SubMetropolitanCity",
+    "wardCount": 19
+  },
+  {
+    "name": "Jitpursimara Sub-Metropolitan City",
+    "nameNp": "जितपुरसिमारा उपमहानगरपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "SubMetropolitanCity",
+    "wardCount": 24
+  },
+  {
+    "name": "Dhangadhi Sub-Metropolitan City",
+    "nameNp": "धनगढी उपमहानगरपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "SubMetropolitanCity",
+    "wardCount": 19
+  },
+  {
+    "name": "Hetauda Sub-Metropolitan City",
+    "nameNp": "हेटौंडा उपमहानगरपालिका",
+    "district": "Makwanpur",
+    "province": "Bagmati",
+    "type": "SubMetropolitanCity",
+    "wardCount": 19
+  },
+  {
+    "name": "Dharan Sub-Metropolitan City",
+    "nameNp": "धरान उपमहानगरपालिका",
+    "district": "Sunsari",
+    "province": "Koshi",
+    "type": "SubMetropolitanCity",
+    "wardCount": 20
+  },
+  {
+    "name": "Kalaiya Sub-Metropolitan City",
+    "nameNp": "कलैया उपमहानगरपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "SubMetropolitanCity",
+    "wardCount": 27
+  },
+  {
+    "name": "Butwal Sub-Metropolitan City",
+    "nameNp": "बुटवल उपमहानगरपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "SubMetropolitanCity",
+    "wardCount": 19
+  },
+  {
+    "name": "Itahari Sub-Metropolitan City",
+    "nameNp": "इटहरी उपमहानगरपालिका",
+    "district": "Sunsari",
+    "province": "Koshi",
+    "type": "SubMetropolitanCity",
+    "wardCount": 20
+  },
+  {
+    "name": "Janakpurdham Sub-Metropolitan City",
+    "nameNp": "जनकपुरधाम उपमहानगरपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "SubMetropolitanCity",
+    "wardCount": 25
+  },
+  {
+    "name": "Nepalgunj Sub-Metropolitan City",
+    "nameNp": "नेपालगन्ज उपमहानगरपालिका",
+    "district": "Banke",
+    "province": "Lumbini",
+    "type": "SubMetropolitanCity",
+    "wardCount": 23
+  },
+  {
+    "name": "Phungling Municipality",
+    "nameNp": "फुङ्लिङ नगरपालिका",
+    "district": "Taplejung",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Dharmadevi Municipality",
+    "nameNp": "धर्मदेवी नगरपालिका",
+    "district": "Sankhuwasabha",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Madi Municipality",
+    "nameNp": "मादी नगरपालिका",
+    "district": "Sankhuwasabha",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Panchakhapan Municipality",
+    "nameNp": "पञ्चखापन नगरपालिका",
+    "district": "Sankhuwasabha",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Chainpur Municipality",
+    "nameNp": "चैनपुर नगरपालिका",
+    "district": "Sankhuwasabha",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Khandbari Municipality",
+    "nameNp": "खाँदबारी नगरपालिका",
+    "district": "Sankhuwasabha",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Solududhakunda Municipality",
+    "nameNp": "सोलुदुधाकुण्ड नगरपालिका",
+    "district": "Solukhumbu",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Siddhicharan Municipality",
+    "nameNp": "सिद्धिचरण नगरपालिका",
+    "district": "Okhaldhunga",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Halesi Tuwachung Municipality",
+    "nameNp": "हलेसी तुवाचुङ नगरपालिका",
+    "district": "Khotang",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Diktel Rupakot Majhuwagadhi Municipality",
+    "nameNp": "दिक्तेल रुपाकोट मझुवागढी नगरपालिका",
+    "district": "Khotang",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 15
+  },
+  {
+    "name": "Shadananda Municipality",
+    "nameNp": "षडानन्द नगरपालिका",
+    "district": "Bhojpur",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Bhojpur Municipality",
+    "nameNp": "भोजपुर नगरपालिका",
+    "district": "Bhojpur",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Pakhribas Municipality",
+    "nameNp": "पाखरिबास नगरपालिका",
+    "district": "Dhankuta",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Mahalaxmi Municipality",
+    "nameNp": "महालक्ष्मी नगरपालिका",
+    "district": "Dhankuta",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Dhankuta Municipality",
+    "nameNp": "धनकुटा नगरपालिका",
+    "district": "Dhankuta",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Laligurans Municipality",
+    "nameNp": "लालीगुराँस नगरपालिका",
+    "district": "Terhathum",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Myanglung Municipality",
+    "nameNp": "म्याङलुङ नगरपालिका",
+    "district": "Terhathum",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Phidim Municipality",
+    "nameNp": "फिदिम नगरपालिका",
+    "district": "Panchthar",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Illam Municipality",
+    "nameNp": "इलाम नगरपालिका",
+    "district": "Ilam",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Mai Municipality",
+    "nameNp": "माई नगरपालिका",
+    "district": "Ilam",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Deumai Municipality",
+    "nameNp": "देउमाई नगरपालिका",
+    "district": "Ilam",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Suryodaya Municipality",
+    "nameNp": "सूर्योदय नगरपालिका",
+    "district": "Ilam",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Shivasataxi Municipality",
+    "nameNp": "शिवसताक्सी नगरपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Bhadrapur Municipality",
+    "nameNp": "भद्रपुर नगरपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Kankai Municipality",
+    "nameNp": "कनकाई नगरपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Birtamod Municipality",
+    "nameNp": "बिर्तामोड नगरपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Mechinagar Municipality",
+    "nameNp": "मेचीनगर नगरपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 15
+  },
+  {
+    "name": "Damak Municipality",
+    "nameNp": "दमक नगरपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Arjundhara Municipality",
+    "nameNp": "अर्जुनधारा नगरपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Gauradhaha Municipality",
+    "nameNp": "गौराधा नगरपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Letang Municipality",
+    "nameNp": "लेटाङ नगरपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Sunwarshi Municipality",
+    "nameNp": "सुनवर्शी नगरपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Rangeli Municipality",
+    "nameNp": "रंगेली नगरपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Pathari Shanishchare Municipality",
+    "nameNp": "पथरी शनिश्चरे नगरपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Uralabari Municipality",
+    "nameNp": "उरालाबारी नगरपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Belbari Municipality",
+    "nameNp": "बेलबारी नगरपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Sundarharaicha Municipality",
+    "nameNp": "सुन्दरहरैचा नगरपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Ratuwamai Municipality",
+    "nameNp": "रतुवामाई नगरपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Ramdhuni Municipality",
+    "nameNp": "रामधुनी नगरपालिका",
+    "district": "Sunsari",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Barahchhetra Municipality",
+    "nameNp": "बराहक्षेत्र नगरपालिका",
+    "district": "Sunsari",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Duhabi Municipality",
+    "nameNp": "दुहबी नगरपालिका",
+    "district": "Sunsari",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Inaruwa Municipality",
+    "nameNp": "इनरुवा नगरपालिका",
+    "district": "Sunsari",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Triyuga Municipality",
+    "nameNp": "त्रियुग नगरपालिका",
+    "district": "Udayapur",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 16
+  },
+  {
+    "name": "Katari Municipality",
+    "nameNp": "कटारी नगरपालिका",
+    "district": "Udayapur",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Chaudandigadhi Municipality",
+    "nameNp": "चौदण्डीगढी नगरपालिका",
+    "district": "Udayapur",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Belaka Municipality",
+    "nameNp": "बेलका नगरपालिका",
+    "district": "Udayapur",
+    "province": "Koshi",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Hanumannagar Kankalini Municipality",
+    "nameNp": "हनुमाननगर कंकालिनी नगरपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Kanchanrup Municipality",
+    "nameNp": "कञ्चनरुप नगरपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Rajbiraj Municipality",
+    "nameNp": "राजविराज नगरपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 16
+  },
+  {
+    "name": "Khadak Municipality",
+    "nameNp": "खडक नगरपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Dakneshwori Municipality",
+    "nameNp": "डाक्नेश्वरी नगरपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Saptakoshi Municipality",
+    "nameNp": "सप्तकोशी नगरपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Surunga Municipality",
+    "nameNp": "सुरुङ्गा नगरपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Shambhunath Municipality",
+    "nameNp": "शम्भुनाथ नगरपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Bode Barsain Municipality",
+    "nameNp": "बोडे बार्सैन नगरपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Mirchaiya Municipality",
+    "nameNp": "मिर्चैया नगरपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Lahan Municipality",
+    "nameNp": "लहान नगरपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 24
+  },
+  {
+    "name": "Siraha Municipality",
+    "nameNp": "सिरहा नगरपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 22
+  },
+  {
+    "name": "Dhangadhimai Municipality",
+    "nameNp": "धनगढीमाई नगरपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Kalyanpur Municipality",
+    "nameNp": "कल्याणपुर नगरपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Karjanha Municipality",
+    "nameNp": "कर्जन्हा नगरपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Golbazar Municipality",
+    "nameNp": "गोलबजार नगरपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Sukhipur Municipality",
+    "nameNp": "सुखीपुर नगरपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Mithila Bihari Municipality",
+    "nameNp": "मिथिला बिहारी नगरपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Nagarain Municipality",
+    "nameNp": "नगराई नगरपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Ganeshman Charnath Municipality",
+    "nameNp": "गणेशमान चारनाथ नगरपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Mithila Municipality",
+    "nameNp": "मिथिला नगरपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Dhanusadham Municipality",
+    "nameNp": "धनुषाधाम नगरपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Bideha Municipality",
+    "nameNp": "बिदेहा नगरपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Sabaila Municipality",
+    "nameNp": "सबाइला नगरपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Kamala Municipality",
+    "nameNp": "कमला नगरपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Hansapur Municipality",
+    "nameNp": "हंसपुर नगरपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Sahidnagar Municipality",
+    "nameNp": "सहिदनगर नगरपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Chhireshwarnath Municipality",
+    "nameNp": "क्षिरेश्वरनाथ नगरपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Gaushala Municipality",
+    "nameNp": "गौशाला नगरपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Ramgopalpur Municipality",
+    "nameNp": "रामगोपालपुर नगरपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Aurahi Municipality",
+    "nameNp": "औरही नगरपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Bardibas Municipality",
+    "nameNp": "बर्दिवास नगरपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Bhangaha Municipality",
+    "nameNp": "भङ्गाहा नगरपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Jaleswor Municipality",
+    "nameNp": "जलेश्वर नगरपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Balwa Municipality",
+    "nameNp": "बलवा नगरपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Manra Siswa Municipality",
+    "nameNp": "मनरा सिसवा नगरपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Matihani Municipality",
+    "nameNp": "मटिहानी नगरपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Loharpatti Municipality",
+    "nameNp": "लोहारपट्टी नगरपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Barahathawa Municipality",
+    "nameNp": "बराहथवा नगरपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 18
+  },
+  {
+    "name": "Haripur Municipality",
+    "nameNp": "हरिपुर नगरपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Ishworpur Municipality",
+    "nameNp": "ईश्वरपुर नगरपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 15
+  },
+  {
+    "name": "Lalbandi Municipality",
+    "nameNp": "लालबन्दी नगरपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 17
+  },
+  {
+    "name": "Malangawa Municipality",
+    "nameNp": "मलङ्गवा नगरपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Kabilasi Municipality",
+    "nameNp": "कबिलासी नगरपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Bagmati Municipality",
+    "nameNp": "बागमती नगरपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Hariwan Municipality",
+    "nameNp": "हरिवान नगरपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Balara Municipality",
+    "nameNp": "बलरा नगरपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Haripurwa Municipality",
+    "nameNp": "हरिपुरवा नगरपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Godaita Municipality",
+    "nameNp": "गोदैता नगरपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Katahariya Municipality",
+    "nameNp": "कटहरिया नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Maulapur Municipality",
+    "nameNp": "मौलापुर नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Madhav Narayan Municipality",
+    "nameNp": "माधव नारायण नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Gaur Municipality",
+    "nameNp": "गौर नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Gujara Municipality",
+    "nameNp": "गुजरा नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Garuda Municipality",
+    "nameNp": "गरुड नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Ishanath Municipality",
+    "nameNp": "ईशानाथ नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Chandrapur Municipality",
+    "nameNp": "चन्द्रपुर नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Dewahi Gonahi Municipality",
+    "nameNp": "देवाही गोनाही नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Brindaban Municipality",
+    "nameNp": "वृन्दबन नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Rajpur Municipality",
+    "nameNp": "राजपुर नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Rajdevi Municipality",
+    "nameNp": "राजदेवी नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Gadhimai Municipality",
+    "nameNp": "गढीमाई नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Phatuwa Bijayapur Municipality",
+    "nameNp": "विजयपुर फटुवा नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Baudhimai Municipality",
+    "nameNp": "बौधिमाई नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Paroha Municipality",
+    "nameNp": "पारोहा नगरपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Pacharauta Municipality",
+    "nameNp": "पचरौता नगरपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Nijgadh Municipality",
+    "nameNp": "निजगढ नगरपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Simraungadh Municipality",
+    "nameNp": "सिम्रौनगढ नगरपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Mahagadhimai Municipality",
+    "nameNp": "महागढीमाई नगरपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Kolhabi Municipality",
+    "nameNp": "कोल्हाबी नगरपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Bahudaramai Municipality",
+    "nameNp": "बहुदरमाई नगरपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Pokhariya Municipality",
+    "nameNp": "पोखरिया नगरपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Parsagadhi Municipality",
+    "nameNp": "पर्सागढी नगरपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Jiri Municipality",
+    "nameNp": "जिरी नगरपालिका",
+    "district": "Dolakha",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Bhimeshwor Municipality",
+    "nameNp": "भीमेश्वर नगरपालिका",
+    "district": "Dolakha",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Chautara SangachokGadhi Municipality",
+    "nameNp": "चौतारा साँगाचोकगढी नगरपालिका",
+    "district": "Sindhupalchok",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Barhabise Municipality",
+    "nameNp": "बाह्रबिसे नगरपालिका",
+    "district": "Sindhupalchok",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Melamchi Municipality",
+    "nameNp": "मेलम्ची नगरपालिका",
+    "district": "Sindhupalchok",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Nilakantha Municipality",
+    "nameNp": "नीलकण्ठ नगरपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Dhunibesi Municipality",
+    "nameNp": "धुनिबेसी नगरपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Belkotgadhi Municipality",
+    "nameNp": "बेलकोटगढी नगरपालिका",
+    "district": "Nuwakot",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Bidur Municipality",
+    "nameNp": "बिदुर नगरपालिका",
+    "district": "Nuwakot",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Kirtipur Municipality",
+    "nameNp": "कीर्तिपुर नगरपालिका",
+    "district": "Kathmandu",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Shankharapur Municipality",
+    "nameNp": "शंखरापुर नगरपालिका",
+    "district": "Kathmandu",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Nagarjun Municipality",
+    "nameNp": "नागार्जुन नगरपालिका",
+    "district": "Kathmandu",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Kageshwori Manahora Municipality",
+    "nameNp": "कागेश्वरी मनहोरा नगरपालिका",
+    "district": "Kathmandu",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Dakshinkali Municipality",
+    "nameNp": "दक्षिणकाली नगरपालिका",
+    "district": "Kathmandu",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Budhanilakantha Municipality",
+    "nameNp": "बुढानिलकण्ठ नगरपालिका",
+    "district": "Kathmandu",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Tarakeshwor Municipality",
+    "nameNp": "तारकेश्वर नगरपालिका",
+    "district": "Kathmandu",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Tokha Municipality",
+    "nameNp": "टोखा नगरपालिका",
+    "district": "Kathmandu",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Chandragiri Municipality",
+    "nameNp": "चन्द्रागिरि नगरपालिका",
+    "district": "Kathmandu",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 15
+  },
+  {
+    "name": "Gokarneshwor Municipality",
+    "nameNp": "गोकर्णेश्वर नगरपालिका",
+    "district": "Kathmandu",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Changunarayan Municipality",
+    "nameNp": "चाँगुनारायण नगरपालिका",
+    "district": "Bhaktapur",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Suryabinayak Municipality",
+    "nameNp": "सूर्यविनायक नगरपालिका",
+    "district": "Bhaktapur",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Bhaktapur Municipality",
+    "nameNp": "भक्तपुर नगरपालिका",
+    "district": "Bhaktapur",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Madhyapur Thimi Municipality",
+    "nameNp": "मध्यपुरथिमि नगरपालिका",
+    "district": "Bhaktapur",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Mahalaxmi Municipality",
+    "nameNp": "महालक्ष्मी नगरपालिका",
+    "district": "Lalitpur",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Godawari Municipality",
+    "nameNp": "गोदावरी नगरपालिका",
+    "district": "Lalitpur",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Banepa Municipality",
+    "nameNp": "बनेपा नगरपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Mandandeupur Municipality",
+    "nameNp": "मण्डनदेउपुर नगरपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Dhulikhel Municipality",
+    "nameNp": "धुलिखेल नगरपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Panauti Municipality",
+    "nameNp": "पनौती नगरपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Namobuddha Municipality",
+    "nameNp": "नमोबुद्ध नगरपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Panchkhal Municipality",
+    "nameNp": "पाँचखाल नगरपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Manthali Municipality",
+    "nameNp": "मन्थली नगरपालिका",
+    "district": "Ramechhap",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Ramechhap Municipality",
+    "nameNp": "रामेछाप नगरपालिका",
+    "district": "Ramechhap",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Dudhouli Municipality",
+    "nameNp": "दुधौली नगरपालिका",
+    "district": "Sindhuli",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Kamalamai Municipality",
+    "nameNp": "कमलामाई नगरपालिका",
+    "district": "Sindhuli",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Thaha Municipality",
+    "nameNp": "थाहा नगरपालिका",
+    "district": "Makwanpur",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Kalika Municipality",
+    "nameNp": "कालिका नगरपालिका",
+    "district": "Chitwan",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Khairahani Municipality",
+    "nameNp": "खैरहनी नगरपालिका",
+    "district": "Chitwan",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Madi Municipality",
+    "nameNp": "माडी नगरपालिका",
+    "district": "Chitwan",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Rapti Municipality",
+    "nameNp": "राप्ती नगरपालिका",
+    "district": "Chitwan",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Ratnanagar Municipality",
+    "nameNp": "रत्ननगर नगरपालिका",
+    "district": "Chitwan",
+    "province": "Bagmati",
+    "type": "Municipality",
+    "wardCount": 16
+  },
+  {
+    "name": "Palungtar Municipality",
+    "nameNp": "पालुङटार नगरपालिका",
+    "district": "Gorkha",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Gorkha Municipality",
+    "nameNp": "गोरखा नगरपालिका",
+    "district": "Gorkha",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Beni Municipality",
+    "nameNp": "बेनी नगरपालिका",
+    "district": "Myagdi",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Sundarbazar Municipality",
+    "nameNp": "सुन्दरबजार नगरपालिका",
+    "district": "Lamjung",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Besishahar Municipality",
+    "nameNp": "बेशिशहर नगरपालिका",
+    "district": "Lamjung",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Rainas Municipality",
+    "nameNp": "रैनास नगरपालिका",
+    "district": "Lamjung",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "MadhyaNepal Municipality",
+    "nameNp": "मध्यनेपाल नगरपालिका",
+    "district": "Lamjung",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Byas Municipality",
+    "nameNp": "ब्यास नगरपालिका",
+    "district": "Tanahun",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Shuklagandaki Municipality",
+    "nameNp": "शुक्लागण्डकी नगरपालिका",
+    "district": "Tanahun",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Bhimad Municipality",
+    "nameNp": "भीमद नगरपालिका",
+    "district": "Tanahun",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Bhanu Municipality",
+    "nameNp": "भानु नगरपालिका",
+    "district": "Tanahun",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Madhyabindu Municipality",
+    "nameNp": "मध्यविन्दु नगरपालिका",
+    "district": "Nawalpur",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 15
+  },
+  {
+    "name": "Devchuli Municipality",
+    "nameNp": "देवचुली नगरपालिका",
+    "district": "Nawalpur",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 17
+  },
+  {
+    "name": "Gaidakot Municipality",
+    "nameNp": "गैडाकोट नगरपालिका",
+    "district": "Nawalpur",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 18
+  },
+  {
+    "name": "Kawasoti Municipality",
+    "nameNp": "कावासोती नगरपालिका",
+    "district": "Nawalpur",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 17
+  },
+  {
+    "name": "Putalibazar Municipality",
+    "nameNp": "पुतलीबजार नगरपालिका",
+    "district": "Syangja",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Bhirkot Municipality",
+    "nameNp": "भिरकोट नगरपालिका",
+    "district": "Syangja",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Galyang Municipality",
+    "nameNp": "गल्याङ नगरपालिका",
+    "district": "Syangja",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Chapakot Municipality",
+    "nameNp": "चापाकोट नगरपालिका",
+    "district": "Syangja",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Waling Municipality",
+    "nameNp": "वालिङ नगरपालिका",
+    "district": "Syangja",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Kushma Municipality",
+    "nameNp": "कुश्मा नगरपालिका",
+    "district": "Parbat",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Phalebas Municipality",
+    "nameNp": "फलेबास नगरपालिका",
+    "district": "Parbat",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Jaimuni Municipality",
+    "nameNp": "जैमुनी नगरपालिका",
+    "district": "Baglung",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Baglung Municipality",
+    "nameNp": "बाग्लुङ नगरपालिका",
+    "district": "Baglung",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Galkot Municipality",
+    "nameNp": "गलकोट नगरपालिका",
+    "district": "Baglung",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Dhorpatan Municipality",
+    "nameNp": "ढोरपाटन नगरपालिका",
+    "district": "Baglung",
+    "province": "Gandaki",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Rolpa Municipality",
+    "nameNp": "रोल्पा नगरपालिका",
+    "district": "Rolpa",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Pyuthan Municipality",
+    "nameNp": "प्युठान नगरपालिका",
+    "district": "Pyuthan",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Sworgadwary Municipality",
+    "nameNp": "स्वर्गद्वारी नगरपालिका",
+    "district": "Pyuthan",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Resunga Municipality",
+    "nameNp": "रेसुंगा नगरपालिका",
+    "district": "Gulmi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Musikot Municipality",
+    "nameNp": "मुसिकोट नगरपालिका",
+    "district": "Gulmi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Bhumekasthan Municipality",
+    "nameNp": "भुमेकस्थान नगरपालिका",
+    "district": "Arghakhanchi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Sitganga Municipality",
+    "nameNp": "सितगंगा नगरपालिका",
+    "district": "Arghakhanchi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Sandhikharka Municipality",
+    "nameNp": "सन्धिखर्क नगरपालिका",
+    "district": "Arghakhanchi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Tansen Municipality",
+    "nameNp": "तानसेन नगरपालिका",
+    "district": "Palpa",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Rampur Municipality",
+    "nameNp": "रामपुर नगरपालिका",
+    "district": "Palpa",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Bardaghat Municipality",
+    "nameNp": "बर्दघाट नगरपालिका",
+    "district": "Parasi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 16
+  },
+  {
+    "name": "Sunwal Municipality",
+    "nameNp": "सुनवल नगरपालिका",
+    "district": "Parasi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Ramgram Municipality",
+    "nameNp": "रामग्राम नगरपालिका",
+    "district": "Parasi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 18
+  },
+  {
+    "name": "Lumbini Sanskritik Municipality",
+    "nameNp": "लुम्बिनी संस्कृत नगरपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Devdaha Municipality",
+    "nameNp": "देवदह नगरपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Sainamaina Municipality",
+    "nameNp": "सैनामैना नगरपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Siddharthanagar Municipality",
+    "nameNp": "सिद्धार्थनगर नगरपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Tillotama Municipality",
+    "nameNp": "तिलोतमा नगरपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 17
+  },
+  {
+    "name": "Shivaraj Municipality",
+    "nameNp": "शिवराज नगरपालिका",
+    "district": "Kapilvastu",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Kapilvastu Municipality",
+    "nameNp": "कपिलवस्तु नगरपालिका",
+    "district": "Kapilvastu",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Buddhabhumi Municipality",
+    "nameNp": "बुद्धभूमि नगरपालिका",
+    "district": "Kapilvastu",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Maharajgunj Municipality",
+    "nameNp": "महाराजगन्ज नगरपालिका",
+    "district": "Kapilvastu",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Banganga Municipality",
+    "nameNp": "बाणगंगा नगरपालिका",
+    "district": "Kapilvastu",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Krishnanagar Municipality",
+    "nameNp": "कृष्णनगर नगरपालिका",
+    "district": "Kapilvastu",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Lamahi Municipality",
+    "nameNp": "लमही नगरपालिका",
+    "district": "Dang",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Kohalpur Municipality",
+    "nameNp": "कोहलपुर नगरपालिका",
+    "district": "Banke",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 15
+  },
+  {
+    "name": "Thakurbaba Municipality",
+    "nameNp": "ठाकुरबाबा नगरपालिका",
+    "district": "Bardiya",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Bansagadhi Municipality",
+    "nameNp": "बाँसगढी नगरपालिका",
+    "district": "Bardiya",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Barbardiya Municipality",
+    "nameNp": "बारबर्दिया नगरपालिका",
+    "district": "Bardiya",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Rajapur Municipality",
+    "nameNp": "राजापुर नगरपालिका",
+    "district": "Bardiya",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Madhuwan Municipality",
+    "nameNp": "मधुवन नगरपालिका",
+    "district": "Bardiya",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Gulariya Municipality",
+    "nameNp": "गुलरिया नगरपालिका",
+    "district": "Bardiya",
+    "province": "Lumbini",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Tripurasundari Municipality",
+    "nameNp": "त्रिपुरासुन्दरी नगरपालिका",
+    "district": "Dolpa",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Thuli Bheri Municipality",
+    "nameNp": "ठुली भेरी नगरपालिका",
+    "district": "Dolpa",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Chhayanath Rara Municipality",
+    "nameNp": "छायानाथ रारा नगरपालिका",
+    "district": "Mugu",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Chandannath Municipality",
+    "nameNp": "चन्दननाथ नगरपालिका",
+    "district": "Jumla",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Khandachakra Municipality",
+    "nameNp": "खंडचक्र नगरपालिका",
+    "district": "Kalikot",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Raskot Municipality",
+    "nameNp": "रास्कोट नगरपालिका",
+    "district": "Kalikot",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Tilagufa Municipality",
+    "nameNp": "तिलागुफा नगरपालिका",
+    "district": "Kalikot",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Aathabis Municipality",
+    "nameNp": "आठबिस नगरपालिका",
+    "district": "Dailekh",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Dullu Municipality",
+    "nameNp": "दुल्लु नगरपालिका",
+    "district": "Dailekh",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Chamunda Bindrasaini Municipality",
+    "nameNp": "चामुण्डा बिन्द्रसैनी नगरपालिका",
+    "district": "Dailekh",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Narayan Municipality",
+    "nameNp": "नारायण नगरपालिका",
+    "district": "Dailekh",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Nalagad Municipality",
+    "nameNp": "नालागड नगरपालिका",
+    "district": "Jajarkot",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Bheri Municipality",
+    "nameNp": "भेरी नगरपालिका",
+    "district": "Jajarkot",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Chhedagad Municipality",
+    "nameNp": "छेडागढ नगरपालिका",
+    "district": "Jajarkot",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Aathbiskot Municipality",
+    "nameNp": "आठबिस्कोट नगरपालिका",
+    "district": "Western Rukum",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Chaurjahari Municipality",
+    "nameNp": "चौरजहारी नगरपालिका",
+    "district": "Western Rukum",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Musikot Municipality",
+    "nameNp": "मुसिकोट नगरपालिका",
+    "district": "Western Rukum",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Sharada Municipality",
+    "nameNp": "शारदा नगरपालिका",
+    "district": "Salyan",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 15
+  },
+  {
+    "name": "Bangad Municipality",
+    "nameNp": "बांगड नगरपालिका",
+    "district": "Salyan",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Bagchaur Municipality",
+    "nameNp": "बागचौर नगरपालिका",
+    "district": "Salyan",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Gurbhakot Municipality",
+    "nameNp": "गुर्भाकोट नगरपालिका",
+    "district": "Surkhet",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Panchpuri Municipality",
+    "nameNp": "पञ्चपुरी नगरपालिका",
+    "district": "Surkhet",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Bheriganga Municipality",
+    "nameNp": "भेरीगंगा नगरपालिका",
+    "district": "Surkhet",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 13
+  },
+  {
+    "name": "Lekbeshi Municipality",
+    "nameNp": "लेकबेशी नगरपालिका",
+    "district": "Surkhet",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Birendranagar Municipality",
+    "nameNp": "वीरेन्द्रनगर नगरपालिका",
+    "district": "Surkhet",
+    "province": "Karnali",
+    "type": "Municipality",
+    "wardCount": 16
+  },
+  {
+    "name": "Badimalika Municipality",
+    "nameNp": "बडिमालिका नगरपालिका",
+    "district": "Bajura",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Tribeni Municipality",
+    "nameNp": "त्रिवेणी नगरपालिका",
+    "district": "Bajura",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Budhiganga Municipality",
+    "nameNp": "बुढीगंगा नगरपालिका",
+    "district": "Bajura",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Budhinanda Municipality",
+    "nameNp": "बुढीनन्द नगरपालिका",
+    "district": "Bajura",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "JayaPrithivi Municipality",
+    "nameNp": "जय पृथ्वी नगरपालिका",
+    "district": "Bajhang",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Bungal Municipality",
+    "nameNp": "बुंगल नगरपालिका",
+    "district": "Bajhang",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Mahakali Municipality",
+    "nameNp": "महाकाली नगरपालिका",
+    "district": "Darchula",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Shailyashikhar Municipality",
+    "nameNp": "शैल्यशिखर नगरपालिका",
+    "district": "Darchula",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Melauli Municipality",
+    "nameNp": "मेलौली नगरपालिका",
+    "district": "Baitadi",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Dasharathchanda Municipality",
+    "nameNp": "दशरथचन्द नगरपालिका",
+    "district": "Baitadi",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Purchaudi Municipality",
+    "nameNp": "पुर्चौडी नगरपालिका",
+    "district": "Baitadi",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Patan Municipality",
+    "nameNp": "पाटन नगरपालिका",
+    "district": "Baitadi",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Amargadhi Municipality",
+    "nameNp": "अमरगढी नगरपालिका",
+    "district": "Dadeldhura",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Parashuram Municipality",
+    "nameNp": "परशुराम नगरपालिका",
+    "district": "Dadeldhura",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Dipayal Silgadi Municipality",
+    "nameNp": "दिपायल सिलगढी नगरपालिका",
+    "district": "Doti",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Shikhar Municipality",
+    "nameNp": "शिखर नगरपालिका",
+    "district": "Doti",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Sanphebagar Municipality",
+    "nameNp": "साँफेबगर नगरपालिका",
+    "district": "Achham",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Mangalsen Municipality",
+    "nameNp": "मंगलसेन नगरपालिका",
+    "district": "Achham",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Kamalbazar Municipality",
+    "nameNp": "कमलबजार नगरपालिका",
+    "district": "Achham",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Panchadewal Binayak Municipality",
+    "nameNp": "पञ्चदेवल विनायक नगरपालिका",
+    "district": "Achham",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Tikapur Municipality",
+    "nameNp": "टीकापुर नगरपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Ghodaghodi Municipality",
+    "nameNp": "घोडाघोडी नगरपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Bhajani Municipality",
+    "nameNp": "भजनी नगरपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Gauriganga Municipality",
+    "nameNp": "गौरीगंगा नगरपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Godawari Municipality",
+    "nameNp": "गोदावरी नगरपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Lamkichuha Municipality",
+    "nameNp": "लम्कीचुहा नगरपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Punarbas Municipality",
+    "nameNp": "पुनर्वास नगरपालिका",
+    "district": "Kanchanpur",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Krishnapur Municipality",
+    "nameNp": "कृष्णपुर नगरपालिका",
+    "district": "Kanchanpur",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Mahakali Municipality",
+    "nameNp": "महाकाली नगरपालिका",
+    "district": "Kanchanpur",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Bedkot Municipality",
+    "nameNp": "बेदकोट नगरपालिका",
+    "district": "Kanchanpur",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Belauri Municipality",
+    "nameNp": "बेलौरी नगरपालिका",
+    "district": "Kanchanpur",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Bhimdatta Municipality",
+    "nameNp": "भीमदत्त नगरपालिका",
+    "district": "Kanchanpur",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 19
+  },
+  {
+    "name": "Shuklaphanta Municipality",
+    "nameNp": "शुक्लाफाँटा नगरपालिका",
+    "district": "Kanchanpur",
+    "province": "Sudurpashchim",
+    "type": "Municipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Sidingba Rural Municipality",
+    "nameNp": "सिडिङबा गाउँपालिका",
+    "district": "Taplejung",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Meringden Rural Municipality",
+    "nameNp": "Meringden गाउँपालिका",
+    "district": "Taplejung",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Maiwakhola Rural Municipality",
+    "nameNp": "माइवाखोला गाउँपालिका",
+    "district": "Taplejung",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Phaktanglung Rural Municipality",
+    "nameNp": "फाक्ताङलुङ गाउँपालिका",
+    "district": "Taplejung",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Sirijangha Rural Municipality",
+    "nameNp": "सिरिजाङ्घा गाउँपालिका",
+    "district": "Taplejung",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Mikwakhola Rural Municipality",
+    "nameNp": "मिक्वाखोला गाउँपालिका",
+    "district": "Taplejung",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Aathrai Tribeni Rural Municipality",
+    "nameNp": "आठराई त्रिवेणी गाउँपालिका",
+    "district": "Taplejung",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Pathivara Yangwarak Rural Municipality",
+    "nameNp": "पाथिवरा यांगवारक गाउँपालिका",
+    "district": "Taplejung",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Makalu Rural Municipality",
+    "nameNp": "मकालु गाउँपालिका",
+    "district": "Sankhuwasabha",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Chichila Rural Municipality",
+    "nameNp": "चिचिला गाउँपालिका",
+    "district": "Sankhuwasabha",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Silichong Rural Municipality",
+    "nameNp": "सिलिचङ गाउँपालिका",
+    "district": "Sankhuwasabha",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Bhotkhola Rural Municipality",
+    "nameNp": "भोटखोला गाउँपालिका",
+    "district": "Sankhuwasabha",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Sabhapokhari Rural Municipality",
+    "nameNp": "सभापोखरी गाउँपालिका",
+    "district": "Sankhuwasabha",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Sotang Rural Municipality",
+    "nameNp": "सोटाङ गाउँपालिका",
+    "district": "Solukhumbu",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Mahakulung Rural Municipality",
+    "nameNp": "महाकुलुङ गाउँपालिका",
+    "district": "Solukhumbu",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Likhupike Rural Municipality",
+    "nameNp": "लिखुपिके गाउँपालिका",
+    "district": "Solukhumbu",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Nechasalyan Rural Municipality",
+    "nameNp": "नेचासल्यान गाउँपालिका",
+    "district": "Solukhumbu",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Thulung Dudhkoshi Rural Municipality",
+    "nameNp": "थुलुङ दुधकोशी गाउँपालिका",
+    "district": "Solukhumbu",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Maapya Dudhkoshi Rural Municipality",
+    "nameNp": "माप्या दुधकोशी गाउँपालिका",
+    "district": "Solukhumbu",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Khumbupasanglahmu Rural Municipality",
+    "nameNp": "खुम्बुपसङ्लाहमु गाउँपालिका",
+    "district": "Solukhumbu",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Likhu Rural Municipality",
+    "nameNp": "लिखु गाउँपालिका",
+    "district": "Okhaldhunga",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Molung Rural Municipality",
+    "nameNp": "मोलुङ गाउँपालिका",
+    "district": "Okhaldhunga",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Sunkoshi Rural Municipality",
+    "nameNp": "सुनकोशी गाउँपालिका",
+    "district": "Okhaldhunga",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Champadevi Rural Municipality",
+    "nameNp": "चम्पादेवी गाउँपालिका",
+    "district": "Okhaldhunga",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Chisankhugadhi Rural Municipality",
+    "nameNp": "चिसंखुगढी गाउँपालिका",
+    "district": "Okhaldhunga",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Khijidemba Rural Municipality",
+    "nameNp": "खिजिदेम्बा गाउँपालिका",
+    "district": "Okhaldhunga",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Manebhanjyang Rural Municipality",
+    "nameNp": "मानेभञ्ज्याङ गाउँपालिका",
+    "district": "Okhaldhunga",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Sakela Rural Municipality",
+    "nameNp": "साकेला गाउँपालिका",
+    "district": "Khotang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Khotehang Rural Municipality",
+    "nameNp": "खोटेहाङ गाउँपालिका",
+    "district": "Khotang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Barahapokhari Rural Municipality",
+    "nameNp": "बराहापोखरी गाउँपालिका",
+    "district": "Khotang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Ainselukhark Rural Municipality",
+    "nameNp": "ऐसेलुखर्क गाउँपालिका",
+    "district": "Khotang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Rawa Besi Rural Municipality",
+    "nameNp": "रवा बेसी गाउँपालिका",
+    "district": "Khotang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Kepilasagadhi Rural Municipality",
+    "nameNp": "केपिलासगढी गाउँपालिका",
+    "district": "Khotang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Jantedhunga Rural Municipality",
+    "nameNp": "जानतेढुङ्गा गाउँपालिका",
+    "district": "Khotang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Diprung Rural Municipality",
+    "nameNp": "डिप्रुङ गाउँपालिका",
+    "district": "Khotang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Arun Rural Municipality",
+    "nameNp": "अरुण गाउँपालिका",
+    "district": "Bhojpur",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Aamchowk Rural Municipality",
+    "nameNp": "आमचोक गाउँपालिका",
+    "district": "Bhojpur",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Hatuwagadhi Rural Municipality",
+    "nameNp": "हतुवागढी गाउँपालिका",
+    "district": "Bhojpur",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Pauwadungma Rural Municipality",
+    "nameNp": "पौवाडुङ्मा गाउँपालिका",
+    "district": "Bhojpur",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Temkemaiyung Rural Municipality",
+    "nameNp": "टेम्केमाइयुङ गाउँपालिका",
+    "district": "Bhojpur",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Salpasilichho Rural Municipality",
+    "nameNp": "सालपसिलिछो गाउँपालिका",
+    "district": "Bhojpur",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Ramprasad Rural Municipality",
+    "nameNp": "रामप्रसाद गाउँपालिका",
+    "district": "Bhojpur",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Chaubise Rural Municipality",
+    "nameNp": "चौबिसे गाउँपालिका",
+    "district": "Dhankuta",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Shahidbhumi Rural Municipality",
+    "nameNp": "शहिदभूमि गाउँपालिका",
+    "district": "Dhankuta",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Sangurigadhi Rural Municipality",
+    "nameNp": "साँगुरीगढी गाउँपालिका",
+    "district": "Dhankuta",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Chhathar Jorpati Rural Municipality",
+    "nameNp": "छथर जोरपाटी गाउँपालिका",
+    "district": "Dhankuta",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Chhathar Rural Municipality",
+    "nameNp": "छथर गाउँपालिका",
+    "district": "Terhathum",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Phedap Rural Municipality",
+    "nameNp": "फेडाप गाउँपालिका",
+    "district": "Terhathum",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Aathrai Rural Municipality",
+    "nameNp": "आठराई गाउँपालिका",
+    "district": "Terhathum",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Menchayam Rural Municipality",
+    "nameNp": "मेन्चायम गाउँपालिका",
+    "district": "Terhathum",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Yangwarak Rural Municipality",
+    "nameNp": "याङ्गवारक गाउँपालिका",
+    "district": "Panchthar",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Hilihang Rural Municipality",
+    "nameNp": "हिलिहाङ गाउँपालिका",
+    "district": "Panchthar",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Falelung Rural Municipality",
+    "nameNp": "फालेलुङ गाउँपालिका",
+    "district": "Panchthar",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Tumbewa Rural Municipality",
+    "nameNp": "तुम्बेवा गाउँपालिका",
+    "district": "Panchthar",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Kummayak Rural Municipality",
+    "nameNp": "कुमायक गाउँपालिका",
+    "district": "Panchthar",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Miklajung Rural Municipality",
+    "nameNp": "मिक्लाजुङ गाउँपालिका",
+    "district": "Panchthar",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Falgunanda Rural Municipality",
+    "nameNp": "फाल्गुनन्द गाउँपालिका",
+    "district": "Panchthar",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Rong Rural Municipality",
+    "nameNp": "रोङ गाउँपालिका",
+    "district": "Ilam",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Mangsebung Rural Municipality",
+    "nameNp": "मङ्गेबुङ गाउँपालिका",
+    "district": "Ilam",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Chulachuli Rural Municipality",
+    "nameNp": "चुलाचुली गाउँपालिका",
+    "district": "Ilam",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Sandakpur Rural Municipality",
+    "nameNp": "सन्दकपुर गाउँपालिका",
+    "district": "Ilam",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Fakphokthum Rural Municipality",
+    "nameNp": "फाकफोक्थुम गाउँपालिका",
+    "district": "Ilam",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Maijogmai Rural Municipality",
+    "nameNp": "माइजोगमाई गाउँपालिका",
+    "district": "Ilam",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Kamal Rural Municipality",
+    "nameNp": "कमल गाउँपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Jhapa Rural Municipality",
+    "nameNp": "झापा गाउँपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Kachankawal Rural Municipality",
+    "nameNp": "कचनकवल गाउँपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Gauriganj Rural Municipality",
+    "nameNp": "गौरीगञ्ज गाउँपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Barhadashi Rural Municipality",
+    "nameNp": "बाह्रदशी गाउँपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Haldibari Rural Municipality",
+    "nameNp": "हल्दिबारी गाउँपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Buddhashanti Rural Municipality",
+    "nameNp": "बुद्धशान्ति गाउँपालिका",
+    "district": "Jhapa",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Jahada Rural Municipality",
+    "nameNp": "जहादा गाउँपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Katahari Rural Municipality",
+    "nameNp": "कटहरी गाउँपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Gramthan Rural Municipality",
+    "nameNp": "ग्रामथान गाउँपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Dhanpalthan Rural Municipality",
+    "nameNp": "धनपालथान गाउँपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Kerabari Rural Municipality",
+    "nameNp": "केराबारी गाउँपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Budhiganga Rural Municipality",
+    "nameNp": "बुढीगंगा गाउँपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Kanepokhari Rural Municipality",
+    "nameNp": "कानेपोखरी गाउँपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Miklajung Rural Municipality",
+    "nameNp": "मिक्लाजुङ गाउँपालिका",
+    "district": "Morang",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Gadhi Rural Municipality",
+    "nameNp": "गढी गाउँपालिका",
+    "district": "Sunsari",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Koshi Rural Municipality",
+    "nameNp": "कोशी गाउँपालिका",
+    "district": "Sunsari",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Barju Rural Municipality",
+    "nameNp": "बर्जु गाउँपालिका",
+    "district": "Sunsari",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Harinagar Rural Municipality",
+    "nameNp": "हरिनगर गाउँपालिका",
+    "district": "Sunsari",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Dewanganj Rural Municipality",
+    "nameNp": "देवानगन्ज गाउँपालिका",
+    "district": "Sunsari",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Bhokraha Narsing Rural Municipality",
+    "nameNp": "भोक्राहा नरसिङ्ग गाउँपालिका",
+    "district": "Sunsari",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Tapli Rural Municipality",
+    "nameNp": "तापली गाउँपालिका",
+    "district": "Udayapur",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Rautamai Rural Municipality",
+    "nameNp": "रौतामाई गाउँपालिका",
+    "district": "Udayapur",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Udayapurgadhi Rural Municipality",
+    "nameNp": "उदयपुरगढी गाउँपालिका",
+    "district": "Udayapur",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Limchungbung Rural Municipality",
+    "nameNp": "लिम्चुङबुङ गाउँपालिका",
+    "district": "Udayapur",
+    "province": "Koshi",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Rajgadh Rural Municipality",
+    "nameNp": "राजगढ गाउँपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Rupani Rural Municipality",
+    "nameNp": "रुपानी गाउँपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Tirahut Rural Municipality",
+    "nameNp": "तिराहुत गाउँपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Mahadeva Rural Municipality",
+    "nameNp": "महादेव गाउँपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Bishnupur Rural Municipality",
+    "nameNp": "बिष्णुपुर गाउँपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Chhinnamasta Rural Municipality",
+    "nameNp": "छिन्नमस्ता गाउँपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Balan Bihul Rural Municipality",
+    "nameNp": "बालन बिहुल गाउँपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Tilathi Koiladi Rural Municipality",
+    "nameNp": "तिलाठी कोइलाडी गाउँपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Agnisair Krishna Savaran Rural Municipality",
+    "nameNp": "अग्निशैर कृष्ण सावरण गाउँपालिका",
+    "district": "Saptari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Aurahi Rural Municipality",
+    "nameNp": "औरही गाउँपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Naraha Rural Municipality",
+    "nameNp": "नरहा गाउँपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Arnama Rural Municipality",
+    "nameNp": "अर्नामा गाउँपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Bhagawanpur Rural Municipality",
+    "nameNp": "भगवानपुर गाउँपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Nawarajpur Rural Municipality",
+    "nameNp": "नवराजपुर गाउँपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Bishnupur Rural Municipality",
+    "nameNp": "विष्णुपुर गाउँपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Bariyarpatti Rural Municipality",
+    "nameNp": "बरियारपट्टी गाउँपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Laxmipur Patari Rural Municipality",
+    "nameNp": "लक्ष्मीपुर पटारी गाउँपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Sakhuwanankarkatti Rural Municipality",
+    "nameNp": "सखुवानङ्करकट्टी गाउँपालिका",
+    "district": "Siraha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Aaurahi Rural Municipality",
+    "nameNp": "औराही गाउँपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Dhanauji Rural Municipality",
+    "nameNp": "धनौजी गाउँपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Bateshwor Rural Municipality",
+    "nameNp": "बटेश्वर गाउँपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Janaknandani Rural Municipality",
+    "nameNp": "जनकनन्दनी गाउँपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Lakshminiya Rural Municipality",
+    "nameNp": "लक्ष्मीनिया गाउँपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Mukhiyapatti Musarmiya Rural Municipality",
+    "nameNp": "मुखियापट्टी मुसरमिया गाउँपालिका",
+    "district": "Dhanusha",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Pipra Rural Municipality",
+    "nameNp": "पिपरा गाउँपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Sonama Rural Municipality",
+    "nameNp": "सोनामा गाउँपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Samsi Rural Municipality",
+    "nameNp": "सम्सी गाउँपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Ekdanra Rural Municipality",
+    "nameNp": "एकडानरा गाउँपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Mahottari Rural Municipality",
+    "nameNp": "महोत्तरी गाउँपालिका",
+    "district": "Mahottari",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Dhankaul Rural Municipality",
+    "nameNp": "धनकौल गाउँपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Parsa Rural Municipality",
+    "nameNp": "पर्सा गाउँपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Bishnu Rural Municipality",
+    "nameNp": "विष्णु गाउँपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Ramnagar Rural Municipality",
+    "nameNp": "रामनगर गाउँपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Kaudena Rural Municipality",
+    "nameNp": "कौडेना गाउँपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Basbariya Rural Municipality",
+    "nameNp": "बासबरिया गाउँपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Chandranagar Rural Municipality",
+    "nameNp": "चन्द्रनगर गाउँपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Chakraghatta Rural Municipality",
+    "nameNp": "चक्रघट्टा गाउँपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Bramhapuri Rural Municipality",
+    "nameNp": "ब्रम्हपुरी गाउँपालिका",
+    "district": "Sarlahi",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Yemunamai Rural Municipality",
+    "nameNp": "यमुनामाई गाउँपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Durga Bhagwati Rural Municipality",
+    "nameNp": "दुर्गा भगवती गाउँपालिका",
+    "district": "Rautahat",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Pheta Rural Municipality",
+    "nameNp": "फेटा गाउँपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Devtal Rural Municipality",
+    "nameNp": "देवताल गाउँपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Prasauni Rural Municipality",
+    "nameNp": "प्रसौनी गाउँपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Suwarna Rural Municipality",
+    "nameNp": "सुवर्ण गाउँपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Baragadhi Rural Municipality",
+    "nameNp": "बारागढी गाउँपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Karaiyamai Rural Municipality",
+    "nameNp": "करैयामाई गाउँपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Parwanipur Rural Municipality",
+    "nameNp": "परवानीपुर गाउँपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Bishrampur Rural Municipality",
+    "nameNp": "बिश्रामपुर गाउँपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Adarsh kotwal Rural Municipality",
+    "nameNp": "आदर्श कोतवाल गाउँपालिका",
+    "district": "Bara",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Thori Rural Municipality",
+    "nameNp": "थोरी गाउँपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Dhobini Rural Municipality",
+    "nameNp": "धोबिनी गाउँपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Chhipaharmai Rural Municipality",
+    "nameNp": "छिपहरमाई गाउँपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Jirabhawani Rural Municipality",
+    "nameNp": "जिरभवानी गाउँपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Jagarnathpur Rural Municipality",
+    "nameNp": "जगरनाथपुर गाउँपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Kalikamai Rural Municipality",
+    "nameNp": "कालिकामाई गाउँपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Bindabasini Rural Municipality",
+    "nameNp": "बिन्दवासिनी गाउँपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Pakaha mainpur Rural Municipality",
+    "nameNp": "पकाहा मेनपुर गाउँपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Sakhuwa Prasauni Rural Municipality",
+    "nameNp": "सखुवा प्रसौनी गाउँपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Paterwa sugauli Rural Municipality",
+    "nameNp": "पटेरवा सुगौली गाउँपालिका",
+    "district": "Parsa",
+    "province": "Madhesh",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Bigu Rural Municipality",
+    "nameNp": "बिगु गाउँपालिका",
+    "district": "Dolakha",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Sailung Rural Municipality",
+    "nameNp": "सेलुङ गाउँपालिका",
+    "district": "Dolakha",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Melung Rural Municipality",
+    "nameNp": "मेलुङ गाउँपालिका",
+    "district": "Dolakha",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Baiteshwor Rural Municipality",
+    "nameNp": "बैतेश्वर गाउँपालिका",
+    "district": "Dolakha",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Tamakoshi Rural Municipality",
+    "nameNp": "तामाकोशी गाउँपालिका",
+    "district": "Dolakha",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Gaurishankar Rural Municipality",
+    "nameNp": "गौरीशंकर गाउँपालिका",
+    "district": "Dolakha",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Kalinchok Rural Municipality",
+    "nameNp": "कालिञ्चोक गाउँपालिका",
+    "district": "Dolakha",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Jugal Rural Municipality",
+    "nameNp": "जुगल गाउँपालिका",
+    "district": "Sindhupalchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Balefi Rural Municipality",
+    "nameNp": "बलेफी गाउँपालिका",
+    "district": "Sindhupalchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Sunkoshi Rural Municipality",
+    "nameNp": "सुनकोशी गाउँपालिका",
+    "district": "Sindhupalchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Helambu Rural Municipality",
+    "nameNp": "हेलम्बु गाउँपालिका",
+    "district": "Sindhupalchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Bhotekoshi Rural Municipality",
+    "nameNp": "भोटेकोशी गाउँपालिका",
+    "district": "Sindhupalchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Lisangkhu Rural Municipality",
+    "nameNp": "लिसाङ्खु गाउँपालिका",
+    "district": "Sindhupalchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Indrawati Rural Municipality",
+    "nameNp": "इन्द्रावती गाउँपालिका",
+    "district": "Sindhupalchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Tripurasundari Rural Municipality",
+    "nameNp": "त्रिपुरासुन्दरी गाउँपालिका",
+    "district": "Sindhupalchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Panchpokhari Thangpal Rural Municipality",
+    "nameNp": "पाँचपोखरी थाङ्पाल गाउँपालिका",
+    "district": "Sindhupalchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Kalika Rural Municipality",
+    "nameNp": "कालिका गाउँपालिका",
+    "district": "Rasuwa",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Naukunda Rural Municipality",
+    "nameNp": "नौकुण्ड गाउँपालिका",
+    "district": "Rasuwa",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Uttargaya Rural Municipality",
+    "nameNp": "उत्तरगया गाउँपालिका",
+    "district": "Rasuwa",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Gosaikunda Rural Municipality",
+    "nameNp": "गोसाइकुण्ड गाउँपालिका",
+    "district": "Rasuwa",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Amachodingmo Rural Municipality",
+    "nameNp": "अमाकोडिङमो गाउँपालिका",
+    "district": "Rasuwa",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Gajuri Rural Municipality",
+    "nameNp": "गजुरी गाउँपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Galchi Rural Municipality",
+    "nameNp": "गाल्ची गाउँपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Thakre Rural Municipality",
+    "nameNp": "ठाकरे गाउँपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Siddhalek Rural Municipality",
+    "nameNp": "सिद्धलेक गाउँपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Khaniyabash Rural Municipality",
+    "nameNp": "खनियाबास गाउँपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Jwalamukhi Rural Municipality",
+    "nameNp": "ज्वालामुखी गाउँपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Gangajamuna Rural Municipality",
+    "nameNp": "गंगाजमुना गाउँपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Rubi Valley Rural Municipality",
+    "nameNp": "रुबी उपत्यका गाउँपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Tripura Sundari Rural Municipality",
+    "nameNp": "त्रिपुरा सुन्दरी गाउँपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Netrawati Dabjong Rural Municipality",
+    "nameNp": "नेत्रावती डब्जोङ गाउँपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Benighat Rorang Rural Municipality",
+    "nameNp": "बेनिघाट रोराङ गाउँपालिका",
+    "district": "Dhading",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Kakani Rural Municipality",
+    "nameNp": "ककनी गाउँपालिका",
+    "district": "Nuwakot",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Tadi Rural Municipality",
+    "nameNp": "ताडी गाउँपालिका",
+    "district": "Nuwakot",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Likhu Rural Municipality",
+    "nameNp": "लिखु गाउँपालिका",
+    "district": "Nuwakot",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Myagang Rural Municipality",
+    "nameNp": "म्यागाङ गाउँपालिका",
+    "district": "Nuwakot",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Shivapuri Rural Municipality",
+    "nameNp": "शिवपुरी गाउँपालिका",
+    "district": "Nuwakot",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Kispang Rural Municipality",
+    "nameNp": "किस्पाङ गाउँपालिका",
+    "district": "Nuwakot",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Suryagadhi Rural Municipality",
+    "nameNp": "सुर्यगढी गाउँपालिका",
+    "district": "Nuwakot",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Tarkeshwar Rural Municipality",
+    "nameNp": "तारकेश्वर गाउँपालिका",
+    "district": "Nuwakot",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Panchakanya Rural Municipality",
+    "nameNp": "पञ्चकन्या गाउँपालिका",
+    "district": "Nuwakot",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Dupcheshwar Rural Municipality",
+    "nameNp": "दुप्चेश्वर गाउँपालिका",
+    "district": "Nuwakot",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Bagmati Rural Municipality",
+    "nameNp": "वागमती गाउँपालिका",
+    "district": "Lalitpur",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Mahankal Rural Municipality",
+    "nameNp": "महांकाल गाउँपालिका",
+    "district": "Lalitpur",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Konjyosom Rural Municipality",
+    "nameNp": "कोन्ज्योसोम गाउँपालिका",
+    "district": "Lalitpur",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Roshi Rural Municipality",
+    "nameNp": "रोशी गाउँपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Temal Rural Municipality",
+    "nameNp": "तेमल गाउँपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Bhumlu Rural Municipality",
+    "nameNp": "भुम्लु गाउँपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Mahabharat Rural Municipality",
+    "nameNp": "महाभारत गाउँपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Bethanchowk Rural Municipality",
+    "nameNp": "बेथानचोक गाउँपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 4
+  },
+  {
+    "name": "Khanikhola Rural Municipality",
+    "nameNp": "खानीखोला गाउँपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Chaurideurali Rural Municipality",
+    "nameNp": "चौरीदेउराली गाउँपालिका",
+    "district": "Kavrepalanchok",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Sunapati Rural Municipality",
+    "nameNp": "सुनापति गाउँपालिका",
+    "district": "Ramechhap",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Doramba Rural Municipality",
+    "nameNp": "दोरम्बा गाउँपालिका",
+    "district": "Ramechhap",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Umakunda Rural Municipality",
+    "nameNp": "उमाकुण्ड गाउँपालिका",
+    "district": "Ramechhap",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Khadadevi Rural Municipality",
+    "nameNp": "खाडादेवी गाउँपालिका",
+    "district": "Ramechhap",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Gokulganga Rural Municipality",
+    "nameNp": "गोकुलगंगा गाउँपालिका",
+    "district": "Ramechhap",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Likhu Tamakoshi Rural Municipality",
+    "nameNp": "लिखु तामाकोशी गाउँपालिका",
+    "district": "Ramechhap",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Marin Rural Municipality",
+    "nameNp": "मारिन गाउँपालिका",
+    "district": "Sindhuli",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Phikkal Rural Municipality",
+    "nameNp": "फिक्कल गाउँपालिका",
+    "district": "Sindhuli",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Tinpatan Rural Municipality",
+    "nameNp": "तिनपाटन गाउँपालिका",
+    "district": "Sindhuli",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Sunkoshi Rural Municipality",
+    "nameNp": "सुनकोशी गाउँपालिका",
+    "district": "Sindhuli",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Golanjor Rural Municipality",
+    "nameNp": "गोलन्जोर गाउँपालिका",
+    "district": "Sindhuli",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Ghanglekh Rural Municipality",
+    "nameNp": "घाङ्लेख गाउँपालिका",
+    "district": "Sindhuli",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Hariharpurgadhi Rural Municipality",
+    "nameNp": "हरिहरपुरगढी गाउँपालिका",
+    "district": "Sindhuli",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Bakaiya Rural Municipality",
+    "nameNp": "बकैया गाउँपालिका",
+    "district": "Makwanpur",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 12
+  },
+  {
+    "name": "Kailash Rural Municipality",
+    "nameNp": "कैलाश गाउँपालिका",
+    "district": "Makwanpur",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Manahari Rural Municipality",
+    "nameNp": "मनहरी गाउँपालिका",
+    "district": "Makwanpur",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Bhimphedi Rural Municipality",
+    "nameNp": "भीमफेदी गाउँपालिका",
+    "district": "Makwanpur",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Bagmati Rural Municipality",
+    "nameNp": "बागमती गाउँपालिका",
+    "district": "Makwanpur",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Raksirang Rural Municipality",
+    "nameNp": "रक्सिराङ गाउँपालिका",
+    "district": "Makwanpur",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Makawanpurgadhi Rural Municipality",
+    "nameNp": "मकवानपुरगढी गाउँपालिका",
+    "district": "Makwanpur",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Indrasarowar Rural Municipality",
+    "nameNp": "इन्द्रसरोवर गाउँपालिका",
+    "district": "Makwanpur",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Ichchhyakamana Rural Municipality",
+    "nameNp": "इच्छाकामना गाउँपालिका",
+    "district": "Chitwan",
+    "province": "Bagmati",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Gandaki Rural Municipality",
+    "nameNp": "गण्डकी गाउँपालिका",
+    "district": "Gorkha",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Dharche Rural Municipality",
+    "nameNp": "धार्चे गाउँपालिका",
+    "district": "Gorkha",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Aarughat Rural Municipality",
+    "nameNp": "आरुघाट गाउँपालिका",
+    "district": "Gorkha",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Ajirkot Rural Municipality",
+    "nameNp": "अजिरकोट गाउँपालिका",
+    "district": "Gorkha",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Sahid Lakhan Rural Municipality",
+    "nameNp": "सहिद लखन गाउँपालिका",
+    "district": "Gorkha",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Siranchok Rural Municipality",
+    "nameNp": "सिरञ्चोक गाउँपालिका",
+    "district": "Gorkha",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Bhimsenthapa Rural Municipality",
+    "nameNp": "भीमसेनथापा गाउँपालिका",
+    "district": "Gorkha",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Chum Nubri Rural Municipality",
+    "nameNp": "चुम नुब्रि गाउँपालिका",
+    "district": "Gorkha",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Barpak Sulikot Rural Municipality",
+    "nameNp": "बारपाक सुलिकोट गाउँपालिका",
+    "district": "Gorkha",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Chame Rural Municipality",
+    "nameNp": "चामे गाउँपालिका",
+    "district": "Manang",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Narshon Rural Municipality",
+    "nameNp": "नरशोन गाउँपालिका",
+    "district": "Manang",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Narpa Bhumi Rural Municipality",
+    "nameNp": "नरपा भूमि गाउँपालिका",
+    "district": "Manang",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Manang Ingshyang Rural Municipality",
+    "nameNp": "मनाङ इङ्स्याङ गाउँपालिका",
+    "district": "Manang",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Thasang Rural Municipality",
+    "nameNp": "थासाङ गाउँपालिका",
+    "district": "Mustang",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Gharapjhong Rural Municipality",
+    "nameNp": "घरापझोङ गाउँपालिका",
+    "district": "Mustang",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Lomanthang Rural Municipality",
+    "nameNp": "लोमान्थाङ गाउँपालिका",
+    "district": "Mustang",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Lo-Ghekar Damodarkunda Rural Municipality",
+    "nameNp": "लो घेकर दामोदरकुण्ड गाउँपालिका",
+    "district": "Mustang",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Waragung Muktikhsetra Rural Municipality",
+    "nameNp": "वारागुङ मुक्तिक्षेत्र गाउँपालिका",
+    "district": "Mustang",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Mangala Rural Municipality",
+    "nameNp": "मंगला गाउँपालिका",
+    "district": "Myagdi",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Malika Rural Municipality",
+    "nameNp": "मलिका गाउँपालिका",
+    "district": "Myagdi",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Raghuganga Rural Municipality",
+    "nameNp": "रघुगंगा गाउँपालिका",
+    "district": "Myagdi",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Dhaulagiri Rural Municipality",
+    "nameNp": "धौलागिरी गाउँपालिका",
+    "district": "Myagdi",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Annapurna Rural Municipality",
+    "nameNp": "अन्नपूर्ण गाउँपालिका",
+    "district": "Myagdi",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Rupa Rural Municipality",
+    "nameNp": "रुपा गाउँपालिका",
+    "district": "Kaski",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Madi Rural Municipality",
+    "nameNp": "मादी गाउँपालिका",
+    "district": "Kaski",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Annapurna Rural Municipality",
+    "nameNp": "अन्नपूर्ण गाउँपालिका",
+    "district": "Kaski",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Machhapuchchhre Rural Municipality",
+    "nameNp": "माछापुच्छ्रे गाउँपालिका",
+    "district": "Kaski",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Dordi Rural Municipality",
+    "nameNp": "दोर्दी गाउँपालिका",
+    "district": "Lamjung",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Dudhpokhari Rural Municipality",
+    "nameNp": "दूधपोखरी गाउँपालिका",
+    "district": "Lamjung",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Marsyangdi Rural Municipality",
+    "nameNp": "मर्स्याङ्दी गाउँपालिका",
+    "district": "Lamjung",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Kwholasothar Rural Municipality",
+    "nameNp": "क्वालासोथर गाउँपालिका",
+    "district": "Lamjung",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Ghiring Rural Municipality",
+    "nameNp": "घिरिङ गाउँपालिका",
+    "district": "Tanahun",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Devghat Rural Municipality",
+    "nameNp": "देवघाट गाउँपालिका",
+    "district": "Tanahun",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Rhishing Rural Municipality",
+    "nameNp": "रिसिङ गाउँपालिका",
+    "district": "Tanahun",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Myagde Rural Municipality",
+    "nameNp": "म्याग्दे गाउँपालिका",
+    "district": "Tanahun",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Bandipur Rural Municipality",
+    "nameNp": "बन्दीपुर गाउँपालिका",
+    "district": "Tanahun",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Anbukhaireni Rural Municipality",
+    "nameNp": "अन्बुखैरेनी गाउँपालिका",
+    "district": "Tanahun",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Baudeekali Rural Municipality",
+    "nameNp": "बौदेकाली गाउँपालिका",
+    "district": "Nawalpur",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Bulingtar Rural Municipality",
+    "nameNp": "बुलिङटार गाउँपालिका",
+    "district": "Nawalpur",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Hupsekot Rural Municipality",
+    "nameNp": "हुप्सेकोट गाउँपालिका",
+    "district": "Nawalpur",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Binayee Rural Municipality",
+    "nameNp": "बिनयी गाउँपालिका",
+    "district": "Nawalpur",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Harinas Rural Municipality",
+    "nameNp": "हरिनास गाउँपालिका",
+    "district": "Syangja",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Biruwa Rural Municipality",
+    "nameNp": "बिरुवा गाउँपालिका",
+    "district": "Syangja",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Aandhikhola Rural Municipality",
+    "nameNp": "आँधीखोला गाउँपालिका",
+    "district": "Syangja",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Phedikhola Rural Municipality",
+    "nameNp": "फेदीखोला गाउँपालिका",
+    "district": "Syangja",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Kaligandagi Rural Municipality",
+    "nameNp": "कालीगण्डगी गाउँपालिका",
+    "district": "Syangja",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Arjunchaupari Rural Municipality",
+    "nameNp": "अर्जुनचौपरी गाउँपालिका",
+    "district": "Syangja",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Modi Rural Municipality",
+    "nameNp": "मोदी गाउँपालिका",
+    "district": "Parbat",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Painyu Rural Municipality",
+    "nameNp": "पाइन्यु गाउँपालिका",
+    "district": "Parbat",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Jaljala Rural Municipality",
+    "nameNp": "जलजला गाउँपालिका",
+    "district": "Parbat",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Bihadi Rural Municipality",
+    "nameNp": "बिहादी गाउँपालिका",
+    "district": "Parbat",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Mahashila Rural Municipality",
+    "nameNp": "महाशिला गाउँपालिका",
+    "district": "Parbat",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Bareng Rural Municipality",
+    "nameNp": "बरेङ गाउँपालिका",
+    "district": "Baglung",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Badigad Rural Municipality",
+    "nameNp": "बडिगाड गाउँपालिका",
+    "district": "Baglung",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Nisikhola Rural Municipality",
+    "nameNp": "निसिखोला गाउँपालिका",
+    "district": "Baglung",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Kanthekhola Rural Municipality",
+    "nameNp": "कान्ठेखोला गाउँपालिका",
+    "district": "Baglung",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Tara Khola Rural Municipality",
+    "nameNp": "तारा खोला गाउँपालिका",
+    "district": "Baglung",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Taman Khola Rural Municipality",
+    "nameNp": "तमन खोला गाउँपालिका",
+    "district": "Baglung",
+    "province": "Gandaki",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Bhume Rural Municipality",
+    "nameNp": "भुमे गाउँपालिका",
+    "district": "Eastern Rukum",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Sisne Rural Municipality",
+    "nameNp": "सिस्ने गाउँपालिका",
+    "district": "Eastern Rukum",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Putha Uttarganga Rural Municipality",
+    "nameNp": "पुथा उत्तरगंगा गाउँपालिका",
+    "district": "Eastern Rukum",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 14
+  },
+  {
+    "name": "Madi Rural Municipality",
+    "nameNp": "माडी गाउँपालिका",
+    "district": "Rolpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Thawang Rural Municipality",
+    "nameNp": "थवाङ गाउँपालिका",
+    "district": "Rolpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Sunchhahari Rural Municipality",
+    "nameNp": "सुनछहरी गाउँपालिका",
+    "district": "Rolpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Lungri Rural Municipality",
+    "nameNp": "लुङ्गरी गाउँपालिका",
+    "district": "Rolpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Gangadev Rural Municipality",
+    "nameNp": "गंगादेव गाउँपालिका",
+    "district": "Rolpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Tribeni Rural Municipality",
+    "nameNp": "त्रिवेणी गाउँपालिका",
+    "district": "Rolpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Pariwartan Rural Municipality",
+    "nameNp": "परिवर्तन गाउँपालिका",
+    "district": "Rolpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Runtigadi Rural Municipality",
+    "nameNp": "रुन्टीगढी गाउँपालिका",
+    "district": "Rolpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Sunil Smriti Rural Municipality",
+    "nameNp": "सुनिल स्मृति गाउँपालिका",
+    "district": "Rolpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Ayirabat Rural Municipality",
+    "nameNp": "आइराबत गाउँपालिका",
+    "district": "Pyuthan",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Gaumukhi Rural Municipality",
+    "nameNp": "गौमुखी गाउँपालिका",
+    "district": "Pyuthan",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Jhimruk Rural Municipality",
+    "nameNp": "झिमरुक गाउँपालिका",
+    "district": "Pyuthan",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Naubahini Rural Municipality",
+    "nameNp": "नौबहिनी गाउँपालिका",
+    "district": "Pyuthan",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Mandavi Rural Municipality",
+    "nameNp": "मांडवी गाउँपालिका",
+    "district": "Pyuthan",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Mallarani Rural Municipality",
+    "nameNp": "मल्लरानी गाउँपालिका",
+    "district": "Pyuthan",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Sarumarani Rural Municipality",
+    "nameNp": "सरूमरानी गाउँपालिका",
+    "district": "Pyuthan",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Rurukshetra Rural Municipality",
+    "nameNp": "रुरुक्षेत्र गाउँपालिका",
+    "district": "Gulmi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Ishma Rural Municipality",
+    "nameNp": "इस्मा गाउँपालिका",
+    "district": "Gulmi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Madane Rural Municipality",
+    "nameNp": "मदने गाउँपालिका",
+    "district": "Gulmi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Malika Rural Municipality",
+    "nameNp": "मलिका गाउँपालिका",
+    "district": "Gulmi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Chhatrakot Rural Municipality",
+    "nameNp": "छत्रकोट गाउँपालिका",
+    "district": "Gulmi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Dhurkot Rural Municipality",
+    "nameNp": "धुर्कोट गाउँपालिका",
+    "district": "Gulmi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Satyawati Rural Municipality",
+    "nameNp": "सत्यवती गाउँपालिका",
+    "district": "Gulmi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Chandrakot Rural Municipality",
+    "nameNp": "चन्द्रकोट गाउँपालिका",
+    "district": "Gulmi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Kaligandaki Rural Municipality",
+    "nameNp": "कालीगण्डकी गाउँपालिका",
+    "district": "Gulmi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Gulmi Darbar Rural Municipality",
+    "nameNp": "गुल्मीदरबार गाउँपालिका",
+    "district": "Gulmi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Panini Rural Municipality",
+    "nameNp": "पाणिनी गाउँपालिका",
+    "district": "Arghakhanchi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Chhatradev Rural Municipality",
+    "nameNp": "छत्रदेव गाउँपालिका",
+    "district": "Arghakhanchi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Malarani Rural Municipality",
+    "nameNp": "मलारानी गाउँपालिका",
+    "district": "Arghakhanchi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Rambha Rural Municipality",
+    "nameNp": "रम्भा गाउँपालिका",
+    "district": "Palpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Tinau Rural Municipality",
+    "nameNp": "तिनाउ गाउँपालिका",
+    "district": "Palpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Nisdi Rural Municipality",
+    "nameNp": "निस्दी गाउँपालिका",
+    "district": "Palpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Mathagadhi Rural Municipality",
+    "nameNp": "मठगढी गाउँपालिका",
+    "district": "Palpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Ribdikot Rural Municipality",
+    "nameNp": "रिब्दीकोट गाउँपालिका",
+    "district": "Palpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Purbakhola Rural Municipality",
+    "nameNp": "पूर्वखोला गाउँपालिका",
+    "district": "Palpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Bagnaskali Rural Municipality",
+    "nameNp": "बागनास्कली गाउँपालिका",
+    "district": "Palpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Rainadevi Rural Municipality",
+    "nameNp": "रैनादेवी गाउँपालिका",
+    "district": "Palpa",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Sarawal Rural Municipality",
+    "nameNp": "सरवल गाउँपालिका",
+    "district": "Parasi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Susta Rural Municipality",
+    "nameNp": "सुस्ता गाउँपालिका",
+    "district": "Parasi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Pratappur Rural Municipality",
+    "nameNp": "प्रतापपुर गाउँपालिका",
+    "district": "Parasi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Palhi Nandan Rural Municipality",
+    "nameNp": "पाल्ही नन्दन गाउँपालिका",
+    "district": "Parasi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Kanchan Rural Municipality",
+    "nameNp": "कञ्चन गाउँपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Siyari Rural Municipality",
+    "nameNp": "सियारी गाउँपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Rohini Rural Municipality",
+    "nameNp": "रोहिणी गाउँपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Gaidahawa Rural Municipality",
+    "nameNp": "गैडहवा गाउँपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Omsatiya Rural Municipality",
+    "nameNp": "ओमसतिया गाउँपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Sudhdhodhan Rural Municipality",
+    "nameNp": "शुद्धोधन गाउँपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Mayadevi Rural Municipality",
+    "nameNp": "मायादेवी गाउँपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Marchawari Rural Municipality",
+    "nameNp": "मार्चवारी गाउँपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Kotahimai Rural Municipality",
+    "nameNp": "कोटाहिमाई गाउँपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Sammarimai Rural Municipality",
+    "nameNp": "समरीमाई गाउँपालिका",
+    "district": "Rupandehi",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Yashodhara Rural Municipality",
+    "nameNp": "यशोधरा गाउँपालिका",
+    "district": "Kapilvastu",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Bijayanagar Rural Municipality",
+    "nameNp": "विजयनगर गाउँपालिका",
+    "district": "Kapilvastu",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Mayadevi Rural Municipality",
+    "nameNp": "मायादेवी गाउँपालिका",
+    "district": "Kapilvastu",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Suddhodhan Rural Municipality",
+    "nameNp": "शुद्धोधन गाउँपालिका",
+    "district": "Kapilvastu",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Babai Rural Municipality",
+    "nameNp": "बबई गाउँपालिका",
+    "district": "Dang",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Gadhawa Rural Municipality",
+    "nameNp": "गढवा गाउँपालिका",
+    "district": "Dang",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Rapti Rural Municipality",
+    "nameNp": "राप्ती गाउँपालिका",
+    "district": "Dang",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Rajpur Rural Municipality",
+    "nameNp": "राजपुर गाउँपालिका",
+    "district": "Dang",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Dangisharan Rural Municipality",
+    "nameNp": "दंगिशरण गाउँपालिका",
+    "district": "Dang",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Shantinagar Rural Municipality",
+    "nameNp": "शान्तिनगर गाउँपालिका",
+    "district": "Dang",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Banglachuli Rural Municipality",
+    "nameNp": "बंगलाचुली गाउँपालिका",
+    "district": "Dang",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Khajura Rural Municipality",
+    "nameNp": "खजुरा गाउँपालिका",
+    "district": "Banke",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Janki Rural Municipality",
+    "nameNp": "जानकी गाउँपालिका",
+    "district": "Banke",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Baijanath Rural Municipality",
+    "nameNp": "बैजनाथ गाउँपालिका",
+    "district": "Banke",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Duduwa Rural Municipality",
+    "nameNp": "डुडुवा गाउँपालिका",
+    "district": "Banke",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Narainapur Rural Municipality",
+    "nameNp": "नरैनापुर गाउँपालिका",
+    "district": "Banke",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Rapti Sonari Rural Municipality",
+    "nameNp": "राप्ती सोनारी गाउँपालिका",
+    "district": "Banke",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Geruwa Rural Municipality",
+    "nameNp": "गेरुवा गाउँपालिका",
+    "district": "Bardiya",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Badhaiyatal Rural Municipality",
+    "nameNp": "बढैयाताल गाउँपालिका",
+    "district": "Bardiya",
+    "province": "Lumbini",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Kaike Rural Municipality",
+    "nameNp": "काइके गाउँपालिका",
+    "district": "Dolpa",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Jagadulla Rural Municipality",
+    "nameNp": "जगदुल्ला गाउँपालिका",
+    "district": "Dolpa",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Mudkechula Rural Municipality",
+    "nameNp": "मुड्केचुला गाउँपालिका",
+    "district": "Dolpa",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Dolpo Buddha Rural Municipality",
+    "nameNp": "डोल्पो बुद्ध गाउँपालिका",
+    "district": "Dolpa",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Shey Phoksundo Rural Municipality",
+    "nameNp": "शे फोक्सुण्डो गाउँपालिका",
+    "district": "Dolpa",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Chharka Tangsong Rural Municipality",
+    "nameNp": "छर्का ताङसोङ गाउँपालिका",
+    "district": "Dolpa",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Soru Rural Municipality",
+    "nameNp": "सोरु गाउँपालिका",
+    "district": "Mugu",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Khatyad Rural Municipality",
+    "nameNp": "खत्याड गाउँपालिका",
+    "district": "Mugu",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Mugum Karmarong Rural Municipality",
+    "nameNp": "मुगुम कर्मारोङ गाउँपालिका",
+    "district": "Mugu",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Simkot Rural Municipality",
+    "nameNp": "सिमकोट गाउँपालिका",
+    "district": "Humla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Namkha Rural Municipality",
+    "nameNp": "नम्खा गाउँपालिका",
+    "district": "Humla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Chankheli Rural Municipality",
+    "nameNp": "चनखेली गाउँपालिका",
+    "district": "Humla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Tanjakot Rural Municipality",
+    "nameNp": "तान्जाकोट गाउँपालिका",
+    "district": "Humla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Sarkegad Rural Municipality",
+    "nameNp": "सार्केगड गाउँपालिका",
+    "district": "Humla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Adanchuli Rural Municipality",
+    "nameNp": "अडांचुली गाउँपालिका",
+    "district": "Humla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Kharpunath Rural Municipality",
+    "nameNp": "खार्पुनाथ गाउँपालिका",
+    "district": "Humla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Hima Rural Municipality",
+    "nameNp": "हिमा गाउँपालिका",
+    "district": "Jumla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Tila Rural Municipality",
+    "nameNp": "तिला गाउँपालिका",
+    "district": "Jumla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Sinja Rural Municipality",
+    "nameNp": "सिन्जा गाउँपालिका",
+    "district": "Jumla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Guthichaur Rural Municipality",
+    "nameNp": "गुठीचौर गाउँपालिका",
+    "district": "Jumla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Tatopani Rural Municipality",
+    "nameNp": "तातोपानी गाउँपालिका",
+    "district": "Jumla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Patrasi Rural Municipality",
+    "nameNp": "पत्रासी गाउँपालिका",
+    "district": "Jumla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Kanakasundari Rural Municipality",
+    "nameNp": "कनकसुन्दरी गाउँपालिका",
+    "district": "Jumla",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Mahawai Rural Municipality",
+    "nameNp": "महावाई गाउँपालिका",
+    "district": "Kalikot",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Palata Rural Municipality",
+    "nameNp": "पलाता गाउँपालिका",
+    "district": "Kalikot",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Naraharinath Rural Municipality",
+    "nameNp": "नरहरिनाथ गाउँपालिका",
+    "district": "Kalikot",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Pachaljharana Rural Municipality",
+    "nameNp": "पाँचलझरना गाउँपालिका",
+    "district": "Kalikot",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Subha Kalika Rural Municipality",
+    "nameNp": "शुभ कालिका गाउँपालिका",
+    "district": "Kalikot",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Sanni Tribeni Rural Municipality",
+    "nameNp": "सन्नी त्रिवेणी गाउँपालिका",
+    "district": "Kalikot",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Bhairabi Rural Municipality",
+    "nameNp": "भैरवी गाउँपालिका",
+    "district": "Dailekh",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Mahabu Rural Municipality",
+    "nameNp": "महाबु गाउँपालिका",
+    "district": "Dailekh",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Gurans Rural Municipality",
+    "nameNp": "गुराँस गाउँपालिका",
+    "district": "Dailekh",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Naumule Rural Municipality",
+    "nameNp": "नौमुले गाउँपालिका",
+    "district": "Dailekh",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Bhagawatimai Rural Municipality",
+    "nameNp": "भगवतीमाई गाउँपालिका",
+    "district": "Dailekh",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Thantikandh Rural Municipality",
+    "nameNp": "ठान्टिकाण्ड गाउँपालिका",
+    "district": "Dailekh",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Dungeshwor Rural Municipality",
+    "nameNp": "डुङ्गेश्वर गाउँपालिका",
+    "district": "Dailekh",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Kuse Rural Municipality",
+    "nameNp": "कुसे गाउँपालिका",
+    "district": "Jajarkot",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Shiwalaya Rural Municipality",
+    "nameNp": "शिवालय गाउँपालिका",
+    "district": "Jajarkot",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Barekot Rural Municipality",
+    "nameNp": "बारेकोट गाउँपालिका",
+    "district": "Jajarkot",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Junichande Rural Municipality",
+    "nameNp": "जुनिचन्दे गाउँपालिका",
+    "district": "Jajarkot",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Tribeni Rural Municipality",
+    "nameNp": "त्रिवेणी गाउँपालिका",
+    "district": "Western Rukum",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Sani Bheri Rural Municipality",
+    "nameNp": "सानी भेरी गाउँपालिका",
+    "district": "Western Rukum",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 11
+  },
+  {
+    "name": "Banfikot Rural Municipality",
+    "nameNp": "बनफिकोट गाउँपालिका",
+    "district": "Western Rukum",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Kumakh Rural Municipality",
+    "nameNp": "कुमाख गाउँपालिका",
+    "district": "Salyan",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Darma Rural Municipality",
+    "nameNp": "डार्मा गाउँपालिका",
+    "district": "Salyan",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Kapurkot Rural Municipality",
+    "nameNp": "कपुरकोट गाउँपालिका",
+    "district": "Salyan",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Kalimati Rural Municipality",
+    "nameNp": "कालीमाटी गाउँपालिका",
+    "district": "Salyan",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Tribeni Rural Municipality",
+    "nameNp": "त्रिवेणी गाउँपालिका",
+    "district": "Salyan",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Chhatreshwori Rural Municipality",
+    "nameNp": "छत्रेश्वरी गाउँपालिका",
+    "district": "Salyan",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Siddha Kumakh Rural Municipality",
+    "nameNp": "सिद्ध कुमाख गाउँपालिका",
+    "district": "Salyan",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Chaukune Rural Municipality",
+    "nameNp": "चौकुने गाउँपालिका",
+    "district": "Surkhet",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Simta Rural Municipality",
+    "nameNp": "सिम्ता गाउँपालिका",
+    "district": "Surkhet",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Chingad Rural Municipality",
+    "nameNp": "चिंगाड गाउँपालिका",
+    "district": "Surkhet",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Barahtal Rural Municipality",
+    "nameNp": "बराहताल गाउँपालिका",
+    "district": "Surkhet",
+    "province": "Karnali",
+    "type": "RuralMunicipality",
+    "wardCount": 10
+  },
+  {
+    "name": "Gaumul Rural Municipality",
+    "nameNp": "गौमुल गाउँपालिका",
+    "district": "Bajura",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Himali Rural Municipality",
+    "nameNp": "हिमाली गाउँपालिका",
+    "district": "Bajura",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Jagannath Rural Municipality",
+    "nameNp": "जगन्नाथ गाउँपालिका",
+    "district": "Bajura",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Khaptad Chhededaha Rural Municipality",
+    "nameNp": "खप्तड छेडेदह गाउँपालिका",
+    "district": "Bajura",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Swami Kartik Khaapar Rural Municipality",
+    "nameNp": "स्वामी कार्तिक खापर गाउँपालिका",
+    "district": "Bajura",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Masta Rural Municipality",
+    "nameNp": "मस्त गाउँपालिका",
+    "district": "Bajhang",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Thalara Rural Municipality",
+    "nameNp": "थालारा गाउँपालिका",
+    "district": "Bajhang",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Talkot Rural Municipality",
+    "nameNp": "तालकोट गाउँपालिका",
+    "district": "Bajhang",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Surma Rural Municipality",
+    "nameNp": "सुर्मा गाउँपालिका",
+    "district": "Bajhang",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "SaiPaal Rural Municipality",
+    "nameNp": "साइपाल गाउँपालिका",
+    "district": "Bajhang",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Durgathali Rural Municipality",
+    "nameNp": "दुर्गाथली गाउँपालिका",
+    "district": "Bajhang",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Bithadchir Rural Municipality",
+    "nameNp": "बिठाडचिर गाउँपालिका",
+    "district": "Bajhang",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Kedarseu Rural Municipality",
+    "nameNp": "केदारसेउ गाउँपालिका",
+    "district": "Bajhang",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Khaptadchhanna Rural Municipality",
+    "nameNp": "खप्तडछन्ना गाउँपालिका",
+    "district": "Bajhang",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Chabispathivera Rural Municipality",
+    "nameNp": "चाबिस्पाथीवेरा गाउँपालिका",
+    "district": "Bajhang",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Lekam Rural Municipality",
+    "nameNp": "लेकम गाउँपालिका",
+    "district": "Darchula",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Naugad Rural Municipality",
+    "nameNp": "नौगाड गाउँपालिका",
+    "district": "Darchula",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Byas Rural Municipality",
+    "nameNp": "ब्यास गाउँपालिका",
+    "district": "Darchula",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Dunhu Rural Municipality",
+    "nameNp": "दुन्हु गाउँपालिका",
+    "district": "Darchula",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Marma Rural Municipality",
+    "nameNp": "मर्मा गाउँपालिका",
+    "district": "Darchula",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Apihimal Rural Municipality",
+    "nameNp": "एपिहिमल गाउँपालिका",
+    "district": "Darchula",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Malikaarjun Rural Municipality",
+    "nameNp": "मालिकार्जुन गाउँपालिका",
+    "district": "Darchula",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Sigas Rural Municipality",
+    "nameNp": "सिगास गाउँपालिका",
+    "district": "Baitadi",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Shivanath Rural Municipality",
+    "nameNp": "शिवनाथ गाउँपालिका",
+    "district": "Baitadi",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Surnaya Rural Municipality",
+    "nameNp": "सुर्नाया गाउँपालिका",
+    "district": "Baitadi",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Dilasaini Rural Municipality",
+    "nameNp": "डिलासैनी गाउँपालिका",
+    "district": "Baitadi",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Pancheshwar Rural Municipality",
+    "nameNp": "पञ्चेश्वर गाउँपालिका",
+    "district": "Baitadi",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Dogadakedar Rural Municipality",
+    "nameNp": "दोगडाकेदार गाउँपालिका",
+    "district": "Baitadi",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Alital Rural Municipality",
+    "nameNp": "अलिताल गाउँपालिका",
+    "district": "Dadeldhura",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Ajaymeru Rural Municipality",
+    "nameNp": "अजयमेरु गाउँपालिका",
+    "district": "Dadeldhura",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Bhageshwar Rural Municipality",
+    "nameNp": "भागेश्वर गाउँपालिका",
+    "district": "Dadeldhura",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Nawadurga Rural Municipality",
+    "nameNp": "नवदुर्गा गाउँपालिका",
+    "district": "Dadeldhura",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Ganayapdhura Rural Municipality",
+    "nameNp": "गणयपधुरा गाउँपालिका",
+    "district": "Dadeldhura",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Sayal Rural Municipality",
+    "nameNp": "सायल गाउँपालिका",
+    "district": "Doti",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Adharsha Rural Municipality",
+    "nameNp": "आदर्श गाउँपालिका",
+    "district": "Doti",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Jorayal Rural Municipality",
+    "nameNp": "जोरयाल गाउँपालिका",
+    "district": "Doti",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Badikedar Rural Municipality",
+    "nameNp": "बडीकेदार गाउँपालिका",
+    "district": "Doti",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Purbichauki Rural Municipality",
+    "nameNp": "पूर्वचौकी गाउँपालिका",
+    "district": "Doti",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "K.I. Singh Rural Municipality",
+    "nameNp": "के आई सिंह गाउँपालिका",
+    "district": "Doti",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Bogtan Foodsil Rural Municipality",
+    "nameNp": "Bogtan Foodsil गाउँपालिका",
+    "district": "Doti",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Dhakari Rural Municipality",
+    "nameNp": "ढकारी गाउँपालिका",
+    "district": "Achham",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Mellekh Rural Municipality",
+    "nameNp": "मेल्लेख गाउँपालिका",
+    "district": "Achham",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Chaurpati Rural Municipality",
+    "nameNp": "चौरपाटी गाउँपालिका",
+    "district": "Achham",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Ramaroshan Rural Municipality",
+    "nameNp": "रामरोशन गाउँपालिका",
+    "district": "Achham",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Turmakhad Rural Municipality",
+    "nameNp": "तुर्मखाड गाउँपालिका",
+    "district": "Achham",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 8
+  },
+  {
+    "name": "Bannigadhi Rural Municipality",
+    "nameNp": "बान्नीगढी गाउँपालिका",
+    "district": "Achham",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Chure Rural Municipality",
+    "nameNp": "चुरे गाउँपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Janaki Rural Municipality",
+    "nameNp": "जानकी गाउँपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Kailari Rural Municipality",
+    "nameNp": "कैलारी गाउँपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 9
+  },
+  {
+    "name": "Joshipur Rural Municipality",
+    "nameNp": "जोशीपुर गाउँपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Mohanyal Rural Municipality",
+    "nameNp": "मोहन्याल गाउँपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 7
+  },
+  {
+    "name": "Bardagoriya Rural Municipality",
+    "nameNp": "बर्दगोरिया गाउँपालिका",
+    "district": "Kailali",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  },
+  {
+    "name": "Beldandi Rural Municipality",
+    "nameNp": "बेलडाँडी गाउँपालिका",
+    "district": "Kanchanpur",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 5
+  },
+  {
+    "name": "Laljhandi Rural Municipality",
+    "nameNp": "लालझण्डी गाउँपालिका",
+    "district": "Kanchanpur",
+    "province": "Sudurpashchim",
+    "type": "RuralMunicipality",
+    "wardCount": 6
+  }
+]

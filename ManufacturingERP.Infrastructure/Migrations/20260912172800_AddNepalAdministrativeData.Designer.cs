@@ -4,6 +4,7 @@ using ManufacturingERP.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ManufacturingERP.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260912172800_AddNepalAdministrativeData")]
+    partial class AddNepalAdministrativeData
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -65,9 +68,6 @@ namespace ManufacturingERP.Infrastructure.Migrations
                         .HasColumnType("uniqueidentifier");
 
                     b.Property<int>("Type")
-                        .HasColumnType("int");
-
-                    b.Property<int>("WardCount")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -131,7 +131,7 @@ namespace ManufacturingERP.Infrastructure.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedAt = new DateTime(2026, 9, 12, 17, 53, 5, 548, DateTimeKind.Utc).AddTicks(6870),
+                            CreatedAt = new DateTime(2026, 9, 12, 17, 28, 0, 277, DateTimeKind.Utc).AddTicks(1511),
                             Description = "System Administrator",
                             IsDeleted = false,
                             Name = "Admin"
@@ -139,7 +139,7 @@ namespace ManufacturingERP.Infrastructure.Migrations
                         new
                         {
                             Id = 2,
-                            CreatedAt = new DateTime(2026, 9, 12, 17, 53, 5, 548, DateTimeKind.Utc).AddTicks(6874),
+                            CreatedAt = new DateTime(2026, 9, 12, 17, 28, 0, 277, DateTimeKind.Utc).AddTicks(1516),
                             Description = "Branch Manager",
                             IsDeleted = false,
                             Name = "Manager"
@@ -147,7 +147,7 @@ namespace ManufacturingERP.Infrastructure.Migrations
                         new
                         {
                             Id = 3,
-                            CreatedAt = new DateTime(2026, 9, 12, 17, 53, 5, 548, DateTimeKind.Utc).AddTicks(6875),
+                            CreatedAt = new DateTime(2026, 9, 12, 17, 28, 0, 277, DateTimeKind.Utc).AddTicks(1517),
                             Description = "Warehouse Store Keeper",
                             IsDeleted = false,
                             Name = "StoreKeeper"
@@ -155,7 +155,7 @@ namespace ManufacturingERP.Infrastructure.Migrations
                         new
                         {
                             Id = 4,
-                            CreatedAt = new DateTime(2026, 9, 12, 17, 53, 5, 548, DateTimeKind.Utc).AddTicks(6876),
+                            CreatedAt = new DateTime(2026, 9, 12, 17, 28, 0, 277, DateTimeKind.Utc).AddTicks(1518),
                             Description = "Sales Staff",
                             IsDeleted = false,
                             Name = "Sales"
@@ -163,7 +163,7 @@ namespace ManufacturingERP.Infrastructure.Migrations
                         new
                         {
                             Id = 5,
-                            CreatedAt = new DateTime(2026, 9, 12, 17, 53, 5, 548, DateTimeKind.Utc).AddTicks(6877),
+                            CreatedAt = new DateTime(2026, 9, 12, 17, 28, 0, 277, DateTimeKind.Utc).AddTicks(1519),
                             Description = "Human Resource",
                             IsDeleted = false,
                             Name = "HR"

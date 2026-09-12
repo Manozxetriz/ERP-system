@@ -7,6 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Data\local_governments.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Data\local_governments.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     
     <ProjectReference Include="..\ManufacturingERP.Application\ManufacturingERP.Application.csproj" />
     

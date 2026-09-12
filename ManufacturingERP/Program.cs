@@ -57,8 +57,17 @@ builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IJwtTokenService, JwtTokenService>();
 
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<NepalAdministrativeData>();
 
 var app = builder.Build();
+// Seed Nepal administrative data
+using (var scope = app.Services.CreateScope())
+{
+    var seeder = scope.ServiceProvider
+        .GetRequiredService<NepalAdministrativeData>();
+
+    await seeder.SeedProvinceDistrictsAndLocalGovernmentsAsync();
+}
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
